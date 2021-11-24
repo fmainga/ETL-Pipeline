@@ -1,0 +1,16 @@
+{
+  "name": "etl-pipeline",
+  "version": "1.0.0",
+  "description": "ETL Pipeline Demo - Node Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Fred Mainga",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
